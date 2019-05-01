@@ -5,8 +5,8 @@
 ############################################################
 open_project trem
 set_top trem
-add_files trem.cpp
 add_files trem.h
+add_files trem.cpp
 add_files -tb trem_test.cpp
 open_solution "solution1"
 set_part {xc7z100ffg900-1} -tool vivado
@@ -15,4 +15,4 @@ create_clock -period 10 -name default
 csim_design -compiler clang
 csynth_design
 cosim_design
-export_design -flow syn -rtl verilog -format ip_catalog
+export_design -rtl verilog -format ip_catalog

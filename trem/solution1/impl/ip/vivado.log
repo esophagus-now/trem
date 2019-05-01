@@ -2,20 +2,17 @@
 # Vivado v2017.2 (64-bit)
 # SW Build 1909853 on Thu Jun 15 18:39:10 MDT 2017
 # IP Build 1909766 on Thu Jun 15 19:58:00 MDT 2017
-# Start of session at: Mon Apr 29 03:58:46 2019
-# Process ID: 52865
-# Current directory: /home/hildeb47/proj/ECE1373_GhostSynth/modules/trem/trem/solution1/impl/ip
+# Start of session at: Mon Apr 29 23:35:19 2019
+# Process ID: 16422
+# Current directory: /root/repo/new/ECE1373_GhostSynth/modules/trem/trem/solution1/impl/ip
 # Command line: vivado -notrace -mode batch -source run_ippack.tcl
-# Log file: /home/hildeb47/proj/ECE1373_GhostSynth/modules/trem/trem/solution1/impl/ip/vivado.log
-# Journal file: /home/hildeb47/proj/ECE1373_GhostSynth/modules/trem/trem/solution1/impl/ip/vivado.jou
+# Log file: /root/repo/new/ECE1373_GhostSynth/modules/trem/trem/solution1/impl/ip/vivado.log
+# Journal file: /root/repo/new/ECE1373_GhostSynth/modules/trem/trem/solution1/impl/ip/vivado.jou
 #-----------------------------------------------------------
 source run_ippack.tcl -notrace
 INFO: [IP_Flow 19-234] Refreshing IP repositories
 INFO: [IP_Flow 19-1704] No user IP repositories specified
-INFO: [IP_Flow 19-2313] Loaded Vivado IP repository '/opt/Xilinx_2017_2/Vivado/2017.2/data/ip'.
-WARNING: [IP_Flow 19-4832] The IP name 'trem_ap_fadd_3_full_dsp_32' you have specified is long. The Windows operating system has path length limitations. It is recommended you use shorter names to reduce the likelihood of issues.
-INFO: [IP_Flow 19-1686] Generating 'Synthesis' target for IP 'trem_ap_fadd_3_full_dsp_32'...
-INFO: [IP_Flow 19-1686] Generating 'Simulation' target for IP 'trem_ap_fadd_3_full_dsp_32'...
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository '/opt/Xilinx/Vivado/2017.2/data/ip'.
 INFO: [IP_Flow 19-1686] Generating 'Synthesis' target for IP 'trem_ap_fmul_2_max_dsp_32'...
 INFO: [IP_Flow 19-1686] Generating 'Simulation' target for IP 'trem_ap_fmul_2_max_dsp_32'...
 INFO: [IP_Flow 19-1686] Generating 'Synthesis' target for IP 'trem_ap_fdiv_14_no_dsp_32'...
@@ -23,7 +20,10 @@ INFO: [IP_Flow 19-1686] Generating 'Simulation' target for IP 'trem_ap_fdiv_14_n
 WARNING: [IP_Flow 19-4832] The IP name 'trem_ap_sitofp_4_no_dsp_32' you have specified is long. The Windows operating system has path length limitations. It is recommended you use shorter names to reduce the likelihood of issues.
 INFO: [IP_Flow 19-1686] Generating 'Synthesis' target for IP 'trem_ap_sitofp_4_no_dsp_32'...
 INFO: [IP_Flow 19-1686] Generating 'Simulation' target for IP 'trem_ap_sitofp_4_no_dsp_32'...
+WARNING: [IP_Flow 19-4832] The IP name 'trem_ap_fadd_3_full_dsp_32' you have specified is long. The Windows operating system has path length limitations. It is recommended you use shorter names to reduce the likelihood of issues.
+INFO: [IP_Flow 19-1686] Generating 'Synthesis' target for IP 'trem_ap_fadd_3_full_dsp_32'...
+INFO: [IP_Flow 19-1686] Generating 'Simulation' target for IP 'trem_ap_fadd_3_full_dsp_32'...
 INFO: [IP_Flow 19-234] Refreshing IP repositories
 INFO: [IP_Flow 19-1704] No user IP repositories specified
-INFO: [IP_Flow 19-2313] Loaded Vivado IP repository '/opt/Xilinx_2017_2/Vivado/2017.2/data/ip'.
-INFO: [Common 17-206] Exiting Vivado at Mon Apr 29 03:59:19 2019...
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository '/opt/Xilinx/Vivado/2017.2/data/ip'.
+INFO: [Common 17-206] Exiting Vivado at Mon Apr 29 23:35:35 2019...

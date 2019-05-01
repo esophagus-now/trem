@@ -2,11 +2,11 @@
 # Vivado v2017.2 (64-bit)
 # SW Build 1909853 on Thu Jun 15 18:39:10 MDT 2017
 # IP Build 1909766 on Thu Jun 15 19:58:00 MDT 2017
-# Start of session at: Mon Apr 29 03:58:46 2019
-# Process ID: 52865
-# Current directory: /home/hildeb47/proj/ECE1373_GhostSynth/modules/trem/trem/solution1/impl/ip
+# Start of session at: Mon Apr 29 23:35:19 2019
+# Process ID: 16422
+# Current directory: /root/repo/new/ECE1373_GhostSynth/modules/trem/trem/solution1/impl/ip
 # Command line: vivado -notrace -mode batch -source run_ippack.tcl
-# Log file: /home/hildeb47/proj/ECE1373_GhostSynth/modules/trem/trem/solution1/impl/ip/vivado.log
-# Journal file: /home/hildeb47/proj/ECE1373_GhostSynth/modules/trem/trem/solution1/impl/ip/vivado.jou
+# Log file: /root/repo/new/ECE1373_GhostSynth/modules/trem/trem/solution1/impl/ip/vivado.log
+# Journal file: /root/repo/new/ECE1373_GhostSynth/modules/trem/trem/solution1/impl/ip/vivado.jou
 #-----------------------------------------------------------
 source run_ippack.tcl -notrace

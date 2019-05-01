@@ -6,8 +6,8 @@
     </Simulation>
     <files xmlns="">
         <file name="../../trem_test.cpp" sc="0" tb="1" cflags=" "/>
-        <file name="trem.h" sc="0" tb="false" cflags=""/>
         <file name="trem.cpp" sc="0" tb="false" cflags=""/>
+        <file name="trem.h" sc="0" tb="false" cflags=""/>
     </files>
     <solutions xmlns="">
         <solution name="solution1" status="active"/>
